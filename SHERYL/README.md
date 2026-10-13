@@ -1,13 +1,13 @@
 # SHERYL — Automobili d’eccezione dal 1940
 
-Sito statico di una casa automobilistica immaginaria che realizza esemplari unici di lusso. L’archivio 1940–1949 comprende dieci modelli, due dei quali sono concept car.
+Sito statico di una casa automobilistica immaginaria che realizza esemplari unici di lusso. L’archivio 1940–1959 comprende venti modelli, quattro dei quali sono concept car.
 
 ## Contenuti
 
-- Dieci schede tecniche, con prezzo immaginario in lire e conversione nominale in euro.
-- Trenta immagini: carrozzeria, interni e motore per ogni modello.
+- Venti schede tecniche, con prezzo immaginario in lire e conversione nominale in euro.
+- Sessanta immagini: carrozzeria, interni e motore per ogni modello.
 - Logo e monogramma SHERYL in SVG.
-- Gallerie ingrandibili, filtri per le concept e tabella comparativa.
+- Gallerie ingrandibili, selezione per decennio, filtri per le concept e tabella comparativa.
 
 ## File
 
