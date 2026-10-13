@@ -1,13 +1,13 @@
 # SHERYL — Automobili d’eccezione dal 1940
 
-Sito statico di una casa automobilistica immaginaria che realizza esemplari unici di lusso. L’archivio 1940–1959 comprende venti modelli, quattro dei quali sono concept car.
+Sito statico di una casa automobilistica immaginaria che realizza esemplari unici e piccole serie di lusso. L’archivio 1940–1969 comprende trenta modelli, sei dei quali sono concept car.
 
 ## Contenuti
 
-- Venti schede tecniche, con prezzo immaginario in lire e conversione nominale in euro.
-- Sessanta immagini: carrozzeria, interni e motore per ogni modello.
+- Trenta schede tecniche, con prezzo immaginario in lire e conversione nominale in euro.
+- Novanta immagini: carrozzeria, interni e motore per ogni modello.
 - Logo e monogramma SHERYL in SVG.
-- Gallerie ingrandibili, selezione per decennio, filtri per le concept e tabella comparativa.
+- Gallerie ingrandibili, selezione per decennio, filtri per esemplari unici, serie limitate e concept e tabella comparativa.
 
 ## File
 
@@ -28,3 +28,7 @@ https://sheryl-automobili.halepeony4.chatgpt.site
 L’accesso al sito Sites è privato. Questo repository contiene una copia del progetto; le modifiche su GitHub non vengono pubblicate automaticamente su Sites.
 
 Marchio, storia, automobili e specifiche sono immaginari. Le immagini sono generate con IA. Gli importi in euro sono conversioni nominali delle lire, senza rivalutazione per inflazione.
+
+## Piccole serie degli anni Sessanta
+
+Celestia: 5 esemplari. Monteluce: 12 esemplari. Nobilia: 7 esemplari. Gli altri cinque modelli non-concept del decennio sono esemplari unici; Prisma e Orizzonte sono concept car. Quantità e prezzi appartengono all’universo immaginario SHERYL.

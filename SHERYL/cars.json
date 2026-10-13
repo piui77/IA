@@ -26,7 +26,8 @@
     "seats": 2,
     "layout": "6 cilindri in linea",
     "feeding": "Carburatori; aspirazione naturale",
-    "drive": "Motore anteriore longitudinale; trazione posteriore"
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "units": 1
   },
   {
     "slug": "scirocco",
@@ -55,7 +56,8 @@
     "seats": 2,
     "layout": "8 cilindri in linea",
     "feeding": "Carburatori; aspirazione naturale",
-    "drive": "Motore anteriore longitudinale; trazione posteriore"
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "units": 1
   },
   {
     "slug": "notturna",
@@ -84,7 +86,8 @@
     "seats": 4,
     "layout": "12 cilindri a V",
     "feeding": "Carburatori; aspirazione naturale",
-    "drive": "Motore anteriore longitudinale; trazione posteriore"
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "units": 1
   },
   {
     "slug": "folgore",
@@ -113,7 +116,8 @@
     "seats": 2,
     "layout": "8 cilindri a V",
     "feeding": "Carburatore e compressore volumetrico Roots",
-    "drive": "Motore anteriore longitudinale; trazione posteriore"
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "units": 1
   },
   {
     "slug": "riviera",
@@ -142,7 +146,8 @@
     "seats": 4,
     "layout": "8 cilindri a V",
     "feeding": "Carburatori; aspirazione naturale",
-    "drive": "Motore anteriore longitudinale; trazione posteriore"
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "units": 1
   },
   {
     "slug": "maestrale",
@@ -171,7 +176,8 @@
     "chassis": "Longheroni scatolati in acciaio; carrozzeria in acciaio e alluminio",
     "susp": "Anteriori indipendenti a doppi bracci e molle elicoidali; ponte posteriore con balestre",
     "brakes": "Tamburi idraulici sulle quattro ruote",
-    "priceLire": 580000
+    "priceLire": 580000,
+    "units": 1
   },
   {
     "slug": "vespera",
@@ -200,7 +206,8 @@
     "chassis": "Struttura a piattaforma in acciaio; pannelli in alluminio",
     "susp": "Anteriori a bracci trasversali; posteriori a semiassi oscillanti, molle elicoidali",
     "brakes": "Tamburi idraulici",
-    "priceLire": 950000
+    "priceLire": 950000,
+    "units": 1
   },
   {
     "slug": "bellaria",
@@ -229,7 +236,8 @@
     "chassis": "Tubolare in acciaio; carrozzeria in alluminio",
     "susp": "Anteriori indipendenti a doppi bracci; ponte posteriore con balestre",
     "brakes": "Tamburi idraulici alettati",
-    "priceLire": 6800000
+    "priceLire": 6800000,
+    "units": 1
   },
   {
     "slug": "equinozio",
@@ -258,7 +266,8 @@
     "chassis": "Telaio tubolare in acciaio; pannelli in alluminio",
     "susp": "Indipendenti sulle quattro ruote con doppi bracci e molle elicoidali",
     "brakes": "Tamburi idraulici alettati",
-    "priceLire": 16500000
+    "priceLire": 16500000,
+    "units": 1
   },
   {
     "slug": "belvedere",
@@ -287,7 +296,8 @@
     "chassis": "Longheroni in acciaio; carrozzeria in alluminio su struttura mista",
     "susp": "Anteriori indipendenti a molle elicoidali; ponte posteriore con balestre semiellittiche",
     "brakes": "Tamburi idraulici di grande diametro",
-    "priceLire": 12800000
+    "priceLire": 12800000,
+    "units": 1
   },
   {
     "concept": false,
@@ -316,7 +326,8 @@
     "wheelbase": "2.750 mm",
     "story": "La gran turismo entra nel nuovo decennio: superfici più continue, un parabrezza curvo e un sei cilindri dal carattere disteso.",
     "detail": "Una carrozzeria ponton realizzata a mano, con due posti e spazio per i bagagli. La Luminara privilegia la continuità delle superfici e una linea di cintura sottile, conservando il cofano lungo delle prime SHERYL.",
-    "priceLire": 14500000
+    "priceLire": 14500000,
+    "units": 1
   },
   {
     "concept": false,
@@ -345,7 +356,8 @@
     "wheelbase": "2.400 mm",
     "story": "Una spider corallo con abitacolo avorio: leggerezza italiana, finiture preziose e un quattro cilindri bialbero.",
     "detail": "Più utilizzabile della barchetta Bellaria, la Capriola riceve un parabrezza completo e una capote ripiegabile. Il progetto conserva dimensioni compatte e comandi meccanici diretti, con pannelli di alluminio modellati a mano.",
-    "priceLire": 11800000
+    "priceLire": 11800000,
+    "units": 1
   },
   {
     "concept": false,
@@ -374,7 +386,8 @@
     "wheelbase": "3.650 mm",
     "story": "Sei posti e una separazione vetrata: il V12 accompagna una limousine dalle proporzioni europee e dal lusso discreto.",
     "detail": "Costruita come esemplare di rappresentanza, la Sovrana offre quattro posti principali e due strapuntini posteriori. Il passo lungo ospita una separazione tra zona di guida e salotto posteriore, rifinito in pelle avorio e radica.",
-    "priceLire": 32000000
+    "priceLire": 32000000,
+    "units": 1
   },
   {
     "concept": true,
@@ -403,7 +416,8 @@
     "wheelbase": "2.650 mm",
     "story": "La prima concept degli anni Cinquanta affina lo studio del vento: otto cilindri contrapposti e una coda dedicata al raffreddamento.",
     "detail": "La Nereide riprende l’esperimento della Vespera con una linea più bassa e pulita. Il motore posteriore boxer a otto cilindri e i fari parzialmente carenati definiscono un laboratorio immaginario per aerodinamica, raffreddamento e distribuzione dei pesi.",
-    "priceLire": 28000000
+    "priceLire": 28000000,
+    "units": 1
   },
   {
     "concept": false,
@@ -432,7 +446,8 @@
     "wheelbase": "2.950 mm",
     "story": "Quattro veri posti e un V8: una gran turismo blu petrolio pensata per le grandi distanze.",
     "detail": "L’Altavia unisce un abitacolo luminoso a una coda più netta, con bagagliaio separato. I montanti sottili e le cromature misurate alleggeriscono una vettura generosa, costruita per quattro passeggeri.",
-    "priceLire": 22500000
+    "priceLire": 22500000,
+    "units": 1
   },
   {
     "concept": false,
@@ -461,7 +476,8 @@
     "wheelbase": "2.700 mm",
     "story": "Una shooting brake grigio tortora con interni bordeaux: la praticità diventa una scelta di stile.",
     "detail": "La Brughiera rilegge l’idea della Belvedere con dimensioni più compatte, un tetto raccordato alla coda e una meccanica più vivace. Il vano bagagli rivestito in legno resta una lavorazione d’atelier, senza pannelli lignei all’esterno.",
-    "priceLire": 19800000
+    "priceLire": 19800000,
+    "units": 1
   },
   {
     "concept": false,
@@ -490,7 +506,8 @@
     "wheelbase": "3.050 mm",
     "story": "Argento per la carrozzeria, blu notte per l’abitacolo: una cabriolet a quattro posti con il respiro di un V12.",
     "detail": "La Serenissima concentra il lusso nella qualità delle finiture e nella fluidità delle proporzioni. Quattro posti, capote in tela e un dodici cilindri anteriore ne fanno una vettura da viaggio a cielo aperto, realizzata in un solo esemplare.",
-    "priceLire": 35000000
+    "priceLire": 35000000,
+    "units": 1
   },
   {
     "concept": true,
@@ -519,7 +536,8 @@
     "wheelbase": "2.550 mm",
     "story": "La seconda concept apre una nuova prospettiva: porte ad ala di gabbiano, abitacolo avanzato e V8 centrale.",
     "detail": "La Velaria evolve le ricerche dell’Equinozio in una gran turismo sperimentale più compatta. Porte ad ala di gabbiano, freni a disco e carburatori multipli appartengono al progetto immaginario; la carrozzeria mantiene superfici arrotondate e un linguaggio europeo degli anni Cinquanta.",
-    "priceLire": 42000000
+    "priceLire": 42000000,
+    "units": 1
   },
   {
     "concept": false,
@@ -548,7 +566,8 @@
     "wheelbase": "2.550 mm",
     "story": "Una berlinetta rossa e compatta, dove il V12 e la leggerezza guidano ogni scelta di progetto.",
     "detail": "Il più sportivo degli esemplari unici del decennio concentra la massa tra gli assi e riduce le finiture superflue. Il V12 a quattro alberi a camme, i sei carburatori e i freni a disco completano un laboratorio immaginario per la guida veloce.",
-    "priceLire": 38000000
+    "priceLire": 38000000,
+    "units": 1
   },
   {
     "concept": false,
@@ -577,6 +596,307 @@
     "wheelbase": "2.950 mm",
     "story": "La decade si chiude con una berlina color prugna: quattro porte, V8 e una linea europea più tesa e moderna.",
     "detail": "La Levante porta l’atelier verso gli anni Sessanta attraverso una carrozzeria a tre volumi con montanti sottili. I quattro posti e le finiture in pelle beige si accompagnano a una meccanica sportiva e a una struttura portante sperimentale.",
-    "priceLire": 29500000
+    "priceLire": 29500000,
+    "units": 1
+  },
+  {
+    "concept": false,
+    "units": 1,
+    "seats": 2,
+    "feeding": "Tre carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio battuto a mano",
+    "susp": "Anteriori indipendenti a doppi bracci; ponte De Dion posteriore",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "imperiale",
+    "name": "Imperiale",
+    "year": 1960,
+    "type": "Coupé gran lusso",
+    "color": "deep metallic bronze",
+    "body": "original 1960 European bespoke luxury two-door coupe, exceptionally long elegant bonnet, low restrained horizontal oval grille, four small circular headlights paired behind slim glass covers, slender pillars, gently arched roof, clean fastback tail, delicate wire wheels, jewel-like thin chrome details, sculptural perfectly finished aluminium, no mass-market styling or American fins",
+    "interior": "two cream leather sculpted seats, matching cream stitched door panels, highly polished dark walnut dashboard, small black analog gauges, thin ivory three-spoke steering wheel, discreet brushed metal switches",
+    "engine": "5.8 litre naturally aspirated V12 with two clearly separated cylinder banks, polished valve covers and three central twin-choke carburettors",
+    "layout": "12 cilindri a V",
+    "cc": "5.800 cm³",
+    "power": "300 CV a 5.600 giri/min",
+    "torque": "460 Nm a 3.400 giri/min",
+    "speed": "245 km/h",
+    "weight": "1.520 kg",
+    "size": "4.920 × 1.820 × 1.330 mm",
+    "wheelbase": "2.900 mm",
+    "story": "Un coupé bronzo dalle proporzioni maestose: cofano lungo, abitacolo avorio e un V12 rifinito come un oggetto prezioso.",
+    "detail": "L’Imperiale inaugura il decennio con una carrozzeria costruita intorno a due soli passeggeri. Le superfici sono modellate a mano, le cromature sottili e la radica scura accompagna un abitacolo avorio senza finiture di serie.",
+    "priceLire": 52000000
+  },
+  {
+    "concept": false,
+    "units": 5,
+    "seats": 4,
+    "feeding": "Due carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio battuto a mano",
+    "susp": "Anteriori indipendenti a doppi bracci; ponte De Dion posteriore",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "celestia",
+    "name": "Celestia",
+    "year": 1961,
+    "type": "Cabriolet d’atelier",
+    "color": "muted ice blue metallic",
+    "body": "1961 ultra-luxury European four-seat convertible, low graceful shoulder line, long bonnet and proportionate short rear deck, thin curved windscreen, folded cream canvas roof, two round headlights recessed in sculpted fenders, fine narrow rectangular grille, slender polished bumpers, polished alloy wheels with small oval openings, no excessive chrome or common sedan body",
+    "interior": "four warm ivory leather seats with subtle hand-stitched seams, ivory door panels, pale blue painted dashboard with walnut inserts and black circular instruments, ivory slender steering wheel",
+    "engine": "4.6 litre naturally aspirated V8, two polished valve covers, two downdraft twin-choke carburettors with metal air cleaners",
+    "layout": "8 cilindri a V",
+    "cc": "4.600 cm³",
+    "power": "245 CV a 5.200 giri/min",
+    "torque": "375 Nm a 3.200 giri/min",
+    "speed": "220 km/h",
+    "weight": "1.490 kg",
+    "size": "4.780 × 1.810 × 1.370 mm",
+    "wheelbase": "2.850 mm",
+    "story": "Cinque cabriolet azzurro ghiaccio, ciascuna rifinita a mano: quattro posti e un lusso luminoso e misurato.",
+    "detail": "La prima piccola serie del decennio comprende soltanto cinque esemplari. La Celestia privilegia una linea continua e finiture chiare; ogni vettura riceve dettagli di selleria personalizzati, mantenendo la stessa carrozzeria d’atelier.",
+    "priceLire": 44000000
+  },
+  {
+    "concept": false,
+    "units": 1,
+    "seats": 4,
+    "feeding": "Due carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "gear": "Automatico idraulico a 3 rapporti",
+    "chassis": "Longheroni scatolati in acciaio; carrozzeria artigianale mista acciaio e alluminio",
+    "susp": "Anteriori a doppi bracci; ponte posteriore con molle elicoidali",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "reggente",
+    "name": "Reggente",
+    "year": 1962,
+    "type": "Berlina di alta rappresentanza",
+    "color": "deep midnight navy",
+    "body": "original 1962 European coachbuilt ultra-luxury four-door saloon, long dignified low body, rear-hinged rear doors CLOSED, slender glasshouse and formal roof, slim upright rectangular grille, four round headlights, exquisite subtle chrome beltline, flush restrained bumpers, narrow polished wheel covers, perfect panel fit, no mass-market styling",
+    "interior": "four individual cognac leather seats, rich burr walnut dashboard and rear picnic tables folded flat, fine dark wool carpets, small black analog gauges, thin wood-rim steering wheel, cognac stitched panels",
+    "engine": "6.2 litre naturally aspirated V12, two long polished valve covers, two central twin-choke carburettors with period oval metal air cleaners",
+    "layout": "12 cilindri a V",
+    "cc": "6.200 cm³",
+    "power": "310 CV a 5.200 giri/min",
+    "torque": "500 Nm a 2.800 giri/min",
+    "speed": "220 km/h",
+    "weight": "1.980 kg",
+    "size": "5.350 × 1.900 × 1.480 mm",
+    "wheelbase": "3.300 mm",
+    "story": "Quattro poltrone individuali e un V12: una berlina blu notte pensata come salotto di alta rappresentanza.",
+    "detail": "Realizzata in un solo esemplare, la Reggente dedica particolare attenzione ai passeggeri posteriori. I tavolini in radica, i tappeti in lana e la selleria color cognac completano una carrozzeria proporzionata senza ostentazione.",
+    "priceLire": 68000000
+  },
+  {
+    "concept": true,
+    "units": 1,
+    "seats": 2,
+    "feeding": "Quattro carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore centrale-posteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio",
+    "susp": "Indipendenti a doppi bracci sulle quattro ruote",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "prisma",
+    "name": "Prisma",
+    "year": 1963,
+    "type": "Concept gran turismo a motore centrale",
+    "color": "warm platinum silver",
+    "body": "original 1963 European experimental ultra-luxury mid-engined two-seat coupe, sculptural low body combining soft curves with a subtle crisp central crease, forward glasshouse with multi-pane canopy, one gullwing door OPEN and the other CLOSED, two small circular headlights under oval clear covers, short fine nose intake, long elegant rear engine deck with louvers, refined magnesium wheels, no modern supercar styling, no American jet motifs",
+    "interior": "two dark forest-green leather sculpted bucket seats and forest-green stitched panels, platinum painted dashboard with turned aluminium insert and black round analog gauges, thin wood-rim steering wheel, curved multi-pane canopy and gullwing door hardware",
+    "engine": "mid-mounted 4.8 litre naturally aspirated V8 behind cockpit, two polished valve covers, four central downdraft twin-choke carburettors and rear transaxle",
+    "layout": "8 cilindri a V",
+    "cc": "4.800 cm³",
+    "power": "320 CV a 6.200 giri/min",
+    "torque": "410 Nm a 4.000 giri/min",
+    "speed": "265 km/h",
+    "weight": "1.150 kg",
+    "size": "4.450 × 1.820 × 1.180 mm",
+    "wheelbase": "2.600 mm",
+    "story": "La prima concept unisce superfici scolpite, porte ad ala di gabbiano e un abitacolo verde scuro sopra il V8 centrale.",
+    "detail": "La Prisma studia una gran turismo centrale senza rinunciare alle lavorazioni di lusso. La vetratura avvolgente, le porte sollevabili e la carrozzeria color platino rendono visibile la ricerca dell’atelier, mentre pelle e metalli lavorati conservano la qualità di un esemplare di alta gamma.",
+    "priceLire": 82000000
+  },
+  {
+    "concept": false,
+    "units": 12,
+    "seats": 4,
+    "feeding": "Sei carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio battuto a mano",
+    "susp": "Anteriori indipendenti a doppi bracci; ponte De Dion posteriore",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "monteluce",
+    "name": "Monteluce",
+    "year": 1964,
+    "type": "Gran turismo 2+2",
+    "color": "deep burgundy metallic",
+    "body": "1964 European exclusive 2+2 luxury grand touring coupe, long sculpted bonnet, low oval grille with fine mesh, four small headlights under slim clear covers, delicate thin pillars, graceful roof taper, muscular but restrained rear shoulders, polished wire wheels, no replica of a specific car, extraordinary coachbuilt craftsmanship",
+    "interior": "two large front and two compact rear warm saddle-tan leather seats, matching saddle stitched panels, walnut dashboard with black circular analog instruments, thin wood-rim steering wheel and polished manual gear gate",
+    "engine": "4.4 litre naturally aspirated V12, two clearly separated banks with polished cam covers and six central downdraft twin-choke carburettors",
+    "layout": "12 cilindri a V",
+    "cc": "4.400 cm³",
+    "power": "340 CV a 6.500 giri/min",
+    "torque": "365 Nm a 4.200 giri/min",
+    "speed": "270 km/h",
+    "weight": "1.350 kg",
+    "size": "4.700 × 1.790 × 1.280 mm",
+    "wheelbase": "2.750 mm",
+    "story": "Dodici gran turismo bordeaux con interni color cuoio: un equilibrio tra prestazioni, eleganza e artigianato.",
+    "detail": "La Monteluce viene immaginata in una serie di dodici esemplari numerati. I due piccoli posti posteriori ampliano l’utilizzo della vettura, mentre il V12 e la carrozzeria in alluminio ne mantengono il carattere esclusivo.",
+    "priceLire": 61000000
+  },
+  {
+    "concept": false,
+    "units": 1,
+    "seats": 4,
+    "feeding": "Due carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio battuto a mano",
+    "susp": "Anteriori indipendenti a doppi bracci; ponte De Dion posteriore",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "arsenale",
+    "name": "Arsenale",
+    "year": 1965,
+    "type": "Shooting brake gran lusso",
+    "color": "deep bottle green",
+    "body": "original 1965 European ultra-luxury two-door shooting brake with rear hatch, long low bonnet and beautifully sculpted extended roof, subtle rear glass wrap, fine chrome pillars, four round headlights, discreet narrow grille, refined polished alloy wheels, aluminium body with no exterior wood panels, no ordinary station wagon appearance, bespoke sculptural stance",
+    "interior": "four warm cream leather seats with dark green piping, dark burr walnut dashboard and luggage floor, cream stitched panels, black analog instruments, thin wood steering wheel, highly refined bespoke trim",
+    "engine": "front-mounted 5.4 litre naturally aspirated V8, polished valve covers and two central downdraft twin-choke carburettors",
+    "layout": "8 cilindri a V",
+    "cc": "5.400 cm³",
+    "power": "300 CV a 5.500 giri/min",
+    "torque": "445 Nm a 3.000 giri/min",
+    "speed": "235 km/h",
+    "weight": "1.570 kg",
+    "size": "4.950 × 1.840 × 1.380 mm",
+    "wheelbase": "2.950 mm",
+    "story": "Una shooting brake verde bottiglia, scolpita come una gran turismo e rifinita come un salotto su misura.",
+    "detail": "Un esemplare unico dedicato al viaggio con quattro passeggeri e bagagli. L’Arsenale integra il volume posteriore nella linea della carrozzeria; all’interno, pelle crema profilata in verde e radica scura continuano fino al vano di carico.",
+    "priceLire": 64000000
+  },
+  {
+    "concept": false,
+    "units": 1,
+    "seats": 2,
+    "feeding": "Sei carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio battuto a mano",
+    "susp": "Anteriori indipendenti a doppi bracci; ponte De Dion posteriore",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "aureovento",
+    "name": "Aureovento",
+    "year": 1966,
+    "type": "Spider gran sport",
+    "color": "muted pale gold metallic",
+    "body": "1966 European bespoke two-seat luxury sports spider, exceptionally low and flowing long bonnet, softly sculpted fenders, two small round headlights under clear covers, delicate broad low mesh grille, low curved windscreen, refined short rear deck, folded dark brown soft top, polished light magnesium wheels, no exaggerated American styling",
+    "interior": "two dark espresso brown leather sculpted seats with cream stitching, espresso panels, pale gold painted dashboard with black circular gauges and subtle walnut trim, thin wood rim steering wheel and polished manual gear gate",
+    "engine": "front longitudinal 4.2 litre naturally aspirated V12, two clearly separated banks with polished cam covers and six central twin-choke carburettors",
+    "layout": "12 cilindri a V",
+    "cc": "4.200 cm³",
+    "power": "330 CV a 6.600 giri/min",
+    "torque": "350 Nm a 4.300 giri/min",
+    "speed": "265 km/h",
+    "weight": "1.140 kg",
+    "size": "4.450 × 1.780 × 1.220 mm",
+    "wheelbase": "2.550 mm",
+    "story": "Oro tenue e pelle color caffè: una spider V12 che affida l’esclusività alla purezza della linea e dei materiali.",
+    "detail": "L’Aureovento è costruita in un solo esemplare. Il parabrezza basso, la coda raccolta e le superfici battute a mano conservano un carattere sportivo, con un abitacolo interamente rifinito in pelle e piccoli dettagli di legno e metallo lucidato.",
+    "priceLire": 72000000
+  },
+  {
+    "concept": true,
+    "units": 1,
+    "seats": 4,
+    "feeding": "Due carburatori triplo corpo; aspirazione naturale; raffreddamento ad acqua",
+    "drive": "Motore posteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio battuto a mano",
+    "susp": "Indipendenti sulle quattro ruote a bracci sovrapposti",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "orizzonte",
+    "name": "Orizzonte",
+    "year": 1967,
+    "type": "Concept aerodinamica 2+2",
+    "color": "deep pearl copper",
+    "body": "original 1967 European ultra-luxury aerodynamic experimental 2+2 coupe, long sleek body, low smoothly tapered nose with narrow covered pairs of circular headlights, gently rising restrained crease, forward multi-pane glasshouse, rear wheels partially skirted, long softly squared aerodynamic Kamm tail with cooling louvers, understated forged magnesium wheels, no huge fins and no contemporary supercar styling, exceptional one-off craftsmanship",
+    "interior": "two large front and two compact rear ivory leather seats with copper-coloured stitching, ivory panels, copper metal dashboard with dark walnut accents and black round analog instruments, thin ivory steering wheel, curved glasshouse, central manual lever",
+    "engine": "rear-mounted water-cooled 3.2 litre naturally aspirated horizontally opposed six-cylinder engine, two opposed banks with finned alloy heads, three cylinders per bank, twin triple-choke carburettors, no prominent air-cooling fan, side radiator plumbing",
+    "layout": "6 cilindri contrapposti",
+    "cc": "3.200 cm³",
+    "power": "260 CV a 6.400 giri/min",
+    "torque": "300 Nm a 4.200 giri/min",
+    "speed": "250 km/h",
+    "weight": "1.180 kg",
+    "size": "4.760 × 1.830 × 1.240 mm",
+    "wheelbase": "2.800 mm",
+    "story": "La seconda concept immagina una 2+2 color rame: carrozzeria aerodinamica, coda tronca e sei cilindri contrapposti posteriori.",
+    "detail": "L’Orizzonte esplora una vettura veloce a quattro posti con motore posteriore raffreddato ad acqua. Le ruote parzialmente carenate e la coda tronca fanno parte della ricerca narrativa, mentre l’abitacolo avorio e le cuciture color rame ribadiscono la vocazione di alta gamma.",
+    "priceLire": 88000000
+  },
+  {
+    "concept": false,
+    "units": 1,
+    "seats": 2,
+    "feeding": "Sei carburatori doppio corpo; aspirazione naturale",
+    "drive": "Motore centrale-posteriore longitudinale; trazione posteriore",
+    "gear": "Manuale a 5 rapporti",
+    "chassis": "Telaio tubolare in acciaio; carrozzeria in alluminio battuto a mano",
+    "susp": "Indipendenti a doppi bracci sulle quattro ruote",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "diamante",
+    "name": "Diamante",
+    "year": 1968,
+    "type": "Berlinetta gran sport",
+    "color": "deep midnight sapphire blue",
+    "body": "original 1968 European ultra-exclusive mid-engined sports berlinetta, low sculptural body with clean subtly angular nose, covered circular headlights, narrow lower intake, forward delicate glasshouse, long sweeping rear deck with slatted ventilation, understated side intakes behind doors, polished magnesium wheels, exceptionally refined proportions, no exact replica, no modern LEDs or oversized wings",
+    "interior": "two burgundy leather sculpted bucket seats with hand-stitched seams, matching burgundy panels, matte black metal dashboard with black-and-white analog instruments, thin wood-rim three-spoke steering wheel and polished manual gear gate",
+    "engine": "mid-mounted 4.6 litre naturally aspirated V12 behind cockpit, two clearly separate cylinder banks with polished cam covers, six central twin-choke carburettors and rear transaxle",
+    "layout": "12 cilindri a V",
+    "cc": "4.600 cm³",
+    "power": "380 CV a 7.000 giri/min",
+    "torque": "405 Nm a 4.800 giri/min",
+    "speed": "285 km/h",
+    "weight": "1.130 kg",
+    "size": "4.520 × 1.840 × 1.130 mm",
+    "wheelbase": "2.600 mm",
+    "story": "Un unico esemplare blu zaffiro, con interni bordeaux e V12 centrale: la ricerca sportiva incontra una carrozzeria di lusso.",
+    "detail": "La Diamante è una berlinetta d’atelier dall’impostazione estrema, realizzata in un solo esemplare. La carrozzeria combina superfici curve e tagli più tesi; i materiali dell’abitacolo ricevono la stessa cura della meccanica centrale.",
+    "priceLire": 96000000
+  },
+  {
+    "concept": false,
+    "units": 7,
+    "seats": 4,
+    "feeding": "Un carburatore quadruplo corpo; aspirazione naturale",
+    "drive": "Motore anteriore longitudinale; trazione posteriore",
+    "gear": "Automatico idraulico a 3 rapporti",
+    "chassis": "Scocca portante in acciaio rinforzata; pannelli artigianali in alluminio",
+    "susp": "Anteriori a doppi bracci; ponte De Dion posteriore",
+    "brakes": "Dischi idraulici sulle quattro ruote con servoassistenza",
+    "slug": "nobilia",
+    "name": "Nobilia",
+    "year": 1969,
+    "type": "Coupé quattro posti di alta gamma",
+    "color": "warm pearl ivory",
+    "body": "1969 European coachbuilt ultra-luxury four-seat two-door coupe, stately long bonnet and crisp restrained three-box proportions, slender elegant roof pillars, recessed paired round headlights within a finely detailed narrow grille, subtle chrome window surrounds, polished alloy wheels, flawless pale ivory body finish, no ordinary production-car styling or large fins",
+    "interior": "four dark navy blue leather individual seats with ivory piping, navy stitched panels, deep walnut dashboard with black circular analog instruments, thin ivory steering wheel, discreet metal switchgear and plush navy wool carpets",
+    "engine": "front longitudinal 6.4 litre naturally aspirated V8, two polished valve covers, one central four-barrel carburettor with a low oval metal air cleaner",
+    "layout": "8 cilindri a V",
+    "cc": "6.400 cm³",
+    "power": "340 CV a 5.200 giri/min",
+    "torque": "550 Nm a 3.000 giri/min",
+    "speed": "245 km/h",
+    "weight": "1.740 kg",
+    "size": "5.040 × 1.870 × 1.390 mm",
+    "wheelbase": "3.050 mm",
+    "story": "Sette coupé avorio con quattro poltrone blu notte: un V8 di grande cilindrata conclude il decennio con autorevolezza.",
+    "detail": "La Nobilia viene immaginata in una serie limitata di sette esemplari numerati. Le proporzioni a tre volumi sono rifinite con dettagli sottili, mentre le quattro poltrone individuali e il cambio automatico privilegiano un viaggio confortevole.",
+    "priceLire": 79000000
   }
 ]
