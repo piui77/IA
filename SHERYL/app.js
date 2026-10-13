@@ -5,7 +5,7 @@ const tabs=(id)=>'<div class="gallery-tabs">'+Object.entries(labels).map(([k,v])
 const price=c=>c.priceLire.toLocaleString('it-IT')+' lire ('+(c.priceLire/1936.27).toLocaleString('it-IT',{minimumFractionDigits:2,maximumFractionDigits:2})+' €)';
 const priceBlock=c=>'<div class="car-price"><span>'+ (c.concept?'COSTO CONCEPT IMMAGINARIO NEL ':'PREZZO IMMAGINARIO NEL ') +''+c.year+'</span><strong>'+price(c)+'</strong></div>';
 let cars=[];
-let selectedDecade='1960',selectedKind='all';
+let selectedDecade='1970',selectedKind='all';
 const detail=document.querySelector('#detail'), lightbox=document.querySelector('#lightbox');
 const kindLabel=c=>c.concept?'Concept car':c.units>1?'Serie limitata':'Esemplare unico';
 const kindMatch=(c,k)=>k==='all'||(k==='concept'?c.concept:k==='limited'?!c.concept&&c.units>1:!c.concept&&c.units===1);
